@@ -17,7 +17,7 @@ You can install `jstee` using the following command:
 go install -v github.com/xitmakes/cmd/jstee@latest
 ```
 
-Replace `your-username` with your actual GitHub username.
+
 
 ## Usage
 
