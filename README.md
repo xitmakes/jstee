@@ -14,7 +14,7 @@
 You can install `jstee` using the following command:
 
 ```bash
-go install -v github.com/xitmakes/cmd/jstee@latest
+go install -v github.com/xitmakes/jstee/cmd/jstee@latest
 ```
 
 
